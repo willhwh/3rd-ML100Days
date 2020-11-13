@@ -119,7 +119,7 @@ K-means
 非監督模型要以特殊評估方法(而非評估函數)來衡量, 今日介紹大家了解並使用其中一種方法 : 輪廓分析
 54. [clustering 3 階層分群算法](https://github.com/willhwh/ML100Days/blob/master/Day_057_HW.ipynb)
 hierarchical clustering
-54. [階層分群法 觀察 : 使用 2D 樣版資料集](hhttps://github.com/willhwh/ML100Days/blob/master/Day_058_hierarchical_clustering_HW.ipynb)
+54. [階層分群法 觀察 : 使用 2D 樣版資料集](https://github.com/willhwh/ML100Days/blob/master/Day_058_hierarchical_clustering_HW.ipynb)
 非監督評估方法 : 2D樣版資料集是什麼? 如何生成與使用?
 54. [dimension reduction 1 降維方法-主成份分析](https://github.com/willhwh/ML100Days/blob/master/Day_059_HW.ipynb)
 PCA
